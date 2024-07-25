@@ -82,7 +82,7 @@
 @media(max-width:400px){
   .weather{
     max-width: 350px;
-    height: 95vh;
+    height: 90vh;
     margin:1rem 0;
     padding: 0.2rem;
   }
@@ -91,13 +91,19 @@
   }
   .col img{
     width:2.5rem ;
-    margin-top: 1.5rem;
+    margin-top: 1rem;
+  }
+  .col{
+    margin-bottom: 1rem;
+    padding-bottom: 0.3rem;
   }
   .search-bar{
     justify-content: center;
   }
   .search-bar input{
-    width: 50%;
+    width: 60%;
+    padding-left:0.6rem;
   }
+
  
 }
