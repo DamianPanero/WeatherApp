@@ -91,6 +91,13 @@
   }
   .col img{
     width:2.5rem ;
+    margin-top: 1.5rem;
+  }
+  .search-bar{
+    justify-content: center;
+  }
+  .search-bar input{
+    width: 50%;
   }
  
 }
